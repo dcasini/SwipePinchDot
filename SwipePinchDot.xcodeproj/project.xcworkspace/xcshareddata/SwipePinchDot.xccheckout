@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2CE18420-A6A7-455F-B544-1ED7DB324197</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SwipePinchDot</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>99B1F542FED5064A6BDE45C3201DFD899DAAFE06</key>
+		<string>https://github.com/dcasini/SwipePinchDot.git</string>
+		<key>CA9752FC11D055A76F50672948C337CF8E129FD8</key>
+		<string>https://github.com/dcasini/CodeSamples.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwipePinchDot.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>99B1F542FED5064A6BDE45C3201DFD899DAAFE06</key>
+		<string>../..</string>
+		<key>CA9752FC11D055A76F50672948C337CF8E129FD8</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dcasini/SwipePinchDot.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>99B1F542FED5064A6BDE45C3201DFD899DAAFE06</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CA9752FC11D055A76F50672948C337CF8E129FD8</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>99B1F542FED5064A6BDE45C3201DFD899DAAFE06</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwipePinchDot</string>
+		</dict>
+	</array>
+</dict>
+</plist>
